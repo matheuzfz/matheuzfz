@@ -10,9 +10,6 @@
   <img align="center" alt="matheuzfz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="matheuzfz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="matheuzfz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47pgxfmpnli21icrq14pnxsvogajiocbkv6k53gk0r&rid=giphy.gif&ct=g">
-</div>
-
 <div> 
   <a href="https://instagram.com/matheuz.santoz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheuzfz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
