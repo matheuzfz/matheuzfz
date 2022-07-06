@@ -15,6 +15,3 @@
   <a href = "mailto:matheuzfz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-finkbeiner-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<div>
-  <img heigt="10em" src="https://comixrevenge.files.wordpress.com/2018/06/1r3fn3.jpg?w=1038&h=500&crop=1"/>
-</div>
