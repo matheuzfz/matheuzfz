@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/matheuzfz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuzfz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuzfz&layout=compact&langs_count=7&theme=dark"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=matheuzfz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuzfz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -14,4 +14,7 @@
   <a href="https://instagram.com/matheuz.santoz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheuzfz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-finkbeiner-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<div>
+  <img heigt="10em" src="https://comixrevenge.files.wordpress.com/2018/06/1r3fn3.jpg?w=1038&h=500&crop=1"/>
 </div>
